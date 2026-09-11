@@ -1,46 +1,81 @@
-# Hi, I'm Israel Monteiro 👋
+# Olá, eu sou Israel Monteiro 👋
 
-### Front-End Developer | React & TypeScript
+### Front-End Developer | React • TypeScript
 
-I'm building my career in Front-End Development, creating practical projects with **React, TypeScript, JavaScript, and Tailwind CSS**.
+Sou desenvolvedor Front-End em início de carreira, com foco em **React e TypeScript**. Tenho desenvolvido projetos práticos envolvendo componentização, gerenciamento de estado, integração com APIs, formulários e interfaces responsivas.
 
-I'm currently looking for my **first opportunity as a developer**, while continuing to improve my front-end skills and expand my knowledge in **back-end development and databases**.
+Atualmente, estou aprimorando meus conhecimentos e **buscando minha primeira oportunidade profissional como Desenvolvedor Front-End Júnior**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 <div>
-  <img alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Tailwind CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Tailwind CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
+
+<br>
+
+**Também tenho experiência com:** TanStack Router, TanStack Query, React Hook Form e Zod.
+
+---
+
+## 🚀 Projetos em destaque
+
+### 👟 Syntax Wear
+
+E-commerce front-end desenvolvido com **React, TypeScript e Tailwind CSS**, com catálogo de produtos, carrinho persistente, rotas dinâmicas, validação de formulários e cálculo de frete via CEP.
+
+**Tecnologias:** React • TypeScript • Tailwind CSS • TanStack Router • Context API • React Hook Form • Zod
+
+[Repositório](https://github.com/israel-monteiro/syntax-wear-app)
+
+---
+
+### 💬 Interactive Comments Section
+
+Aplicação de comentários desenvolvida com **React e TypeScript**, com foco em componentização e gerenciamento de estado.
+
+Permite adicionar, responder, editar e excluir comentários, além de controlar a pontuação dos usuários.
+
+**Tecnologias:** React • TypeScript • Tailwind CSS • Context API
+
+[Repositório](https://github.com/israel-monteiro/interactive-comments-section-main)
+
+---
+
+### 🎬 Studio Ghibli Films
+
+Aplicação para explorar filmes do Studio Ghibli consumindo uma API externa, com listagem, ordenação e páginas de detalhes.
+
+**Tecnologias:** React • TypeScript • Tailwind CSS • TanStack Query • React Router
+
+[Repositório](https://github.com/israel-monteiro/studio-ghibli-films)
+
+---
+
+## 📊 GitHub
+
+<div>
+  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=israel-monteiro&show_icons=true&include_all_commits=true&theme=noctis_minimus"/>
+  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs?username=israel-monteiro&layout=compact&langs_count=4&theme=noctis_minimus"/>
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 📫 Contato
 
-### 👟 Syntax Wear
+Estou aberto a oportunidades como **Desenvolvedor Front-End Júnior**.
 
-E-commerce application built with **React, TypeScript, Tailwind CSS, and TanStack Router**, featuring product browsing, shopping cart, form validation, and shipping calculation.
-
-[Repository](https://github.com/israel-monteiro/syntax-wear-app) · [Live Demo](COLOQUE_O_LINK_DO_DEPLOY)
-
-### 💬 Interactive Comments
-
-Interactive comment system built with **React and TypeScript**, featuring comments, replies, editing, deletion, and voting.
-
-[Repository](COLOQUE_O_LINK_DO_REPOSITORIO) · [Live Demo](COLOQUE_O_LINK_DO_DEPLOY)
-
-### 🎬 Studio Ghibli Films
-
-Movie browsing application built with **React**, featuring API integration, sorting, and detailed movie pages.
-
-[Repository](https://github.com/israel-monteiro/studio-ghibli-films) · [Live Demo](COLOQUE_O_LINK_DO_DEPLOY)
+* GitHub: [israel-monteiro](https://github.com/israel-monteiro)
+* E-mail: **adicione-seu-email-aqui**
+* LinkedIn: **adicione-seu-linkedin-aqui**
 
 ---
 
