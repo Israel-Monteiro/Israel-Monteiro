@@ -1,14 +1,16 @@
-# Olá, eu sou Israel Monteiro 👋
+# Hi, I'm Israel Monteiro 👋
 
 ### Front-End Developer | React • TypeScript
 
-Sou desenvolvedor Front-End em início de carreira, com foco em **React e TypeScript**. Tenho desenvolvido projetos práticos envolvendo componentização, gerenciamento de estado, integração com APIs, formulários e interfaces responsivas.
+I'm an **early-career Front-End Developer** focused on building modern web applications with **React and TypeScript**.
 
-Atualmente, estou aprimorando meus conhecimentos e **buscando minha primeira oportunidade profissional como Desenvolvedor Front-End Júnior**.
+I've been developing practical projects involving component-based architecture, state management, API integration, form validation, and responsive interfaces.
+
+Currently, I'm improving my skills and **looking for my first professional opportunity as a Junior Front-End Developer**.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
 <div>
   <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -22,45 +24,45 @@ Atualmente, estou aprimorando meus conhecimentos e **buscando minha primeira opo
 
 <br>
 
-**Também tenho experiência com:** TanStack Router, TanStack Query, React Hook Form e Zod.
+**Also experienced with:** TanStack Router, TanStack Query, React Hook Form, and Zod.
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Featured Projects
 
 ### 👟 Syntax Wear
 
-E-commerce front-end desenvolvido com **React, TypeScript e Tailwind CSS**, com catálogo de produtos, carrinho persistente, rotas dinâmicas, validação de formulários e cálculo de frete via CEP.
+A responsive e-commerce front-end built with **React, TypeScript, and Tailwind CSS**, featuring product browsing, persistent shopping cart, dynamic routing, form validation, and shipping calculation via ZIP code.
 
-**Tecnologias:** React • TypeScript • Tailwind CSS • TanStack Router • Context API • React Hook Form • Zod
+**Tech:** React • TypeScript • Tailwind CSS • TanStack Router • Context API • React Hook Form • Zod
 
-[Repositório](https://github.com/israel-monteiro/syntax-wear-app)
+[Repository](https://github.com/israel-monteiro/syntax-wear-app)
 
 ---
 
 ### 💬 Interactive Comments Section
 
-Aplicação de comentários desenvolvida com **React e TypeScript**, com foco em componentização e gerenciamento de estado.
+An interactive comment system built with **React and TypeScript**, focused on component architecture and state management.
 
-Permite adicionar, responder, editar e excluir comentários, além de controlar a pontuação dos usuários.
+Users can add, reply to, edit, and delete comments, as well as upvote and downvote them.
 
-**Tecnologias:** React • TypeScript • Tailwind CSS • Context API
+**Tech:** React • TypeScript • Tailwind CSS • Context API
 
-[Repositório](https://github.com/israel-monteiro/interactive-comments-section-main)
+[Repository](https://github.com/israel-monteiro/interactive-comments-section-main)
 
 ---
 
 ### 🎬 Studio Ghibli Films
 
-Aplicação para explorar filmes do Studio Ghibli consumindo uma API externa, com listagem, ordenação e páginas de detalhes.
+A web application for exploring Studio Ghibli movies using an external API, featuring movie listings, sorting, and detailed movie pages.
 
-**Tecnologias:** React • TypeScript • Tailwind CSS • TanStack Query • React Router
+**Tech:** React • TypeScript • Tailwind CSS • TanStack Query • React Router
 
-[Repositório](https://github.com/israel-monteiro/studio-ghibli-films)
+[Repository](https://github.com/israel-monteiro/studio-ghibli-films)
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div>
   <img height="160em" src="https://github-stats-extended.vercel.app/api?username=israel-monteiro&show_icons=true&include_all_commits=true&theme=noctis_minimus"/>
@@ -69,31 +71,12 @@ Aplicação para explorar filmes do Studio Ghibli consumindo uma API externa, co
 
 ---
 
-## 📫 Contato
-
-Estou aberto a oportunidades como **Desenvolvedor Front-End Júnior**.
-
-* GitHub: [israel-monteiro](https://github.com/israel-monteiro)
-* E-mail: **adicione-seu-email-aqui**
-* LinkedIn: **adicione-seu-linkedin-aqui**
-
----
-
-## 📊 GitHub Stats
-
-<div>
-  <a href="https://github.com/israel-monteiro">
-    <img height="170" src="https://github-stats-extended.vercel.app/api?username=israel-monteiro&show_icons=true&include_all_commits=true&theme=noctis_minimus" alt="Israel Monteiro's GitHub Stats" />
-  </a>
-
-  <a href="https://github.com/israel-monteiro">
-    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=israel-monteiro&layout=compact&langs_count=4&theme=noctis_minimus" alt="Most Used Languages" />
-  </a>
-</div>
----
-
 ## 📫 Contact
 
-<a href="mailto:israelmonteiro.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+I'm currently open to opportunities as a **Junior Front-End Developer**.
+
+* GitHub: [israel-monteiro](https://github.com/israel-monteiro)
+* Email: [israelmonteiro.dev@gmail.com](mailto:israelmonteiro.dev@gmail.com)
+
+
+---
